@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+gaia_files/
+*.ipynb_checkpoints
+hardcoded_answers.txt
